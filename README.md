@@ -1,7 +1,7 @@
 # 4stepSQRsynth
  Sintetizador de onda cuadrada de 4 pasos
  
- [a relative link](seq4pasos.pdf)
+ [Esquemático](seq4pasos.pdf)
 
  ## Lista de materiales
 
